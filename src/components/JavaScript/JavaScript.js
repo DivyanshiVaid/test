@@ -15,7 +15,7 @@ const JavaScript = () => {
               break;
             }
         }  
-        return isPalindrome;
+        return isPalindrome ;
      }
      let variable = 121
      console.log(palindromeArray(variable.toString()))
