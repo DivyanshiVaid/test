@@ -15,7 +15,7 @@ const JavaScript = () => {
               break;
             }
         }  
-        return isPalindrome ;
+        return isPalindrome;
      }
      let variable = 121
      console.log(palindromeArray(variable.toString()))
@@ -32,7 +32,7 @@ const JavaScript = () => {
       return true;
     }
   }
-  console.log("prime number", checkPrime(8))
+  console.log("prime number", checkPrime(10))
     //   const [number, setNumber] = useState("");
 //   const [arr, setArr] = useState([]);
 //   const onChange = (e) => {
