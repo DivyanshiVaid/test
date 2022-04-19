@@ -16,7 +16,7 @@ return(
         <Child parentCallBack={callBackFunction} name={name}/>
         <section >
         <div>
-            <label for="">UserName</label>
+            <label for="">UserNames</label>
             <input type="text"/>
         </div>
     </section>
